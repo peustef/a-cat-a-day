@@ -2,7 +2,7 @@
 
  ## Sobre
 ### A Cat a Day - Gatos para alegrar o seu dia!
-Projeto para praticar uso simples de APIs públicas. Desenvolvido ao longo do curso na Labenu utilizando React.js
+Projeto para praticar uso simples de APIs públicas. Retorna aleatoriamente um gif ou img de gato. Desenvolvido ao longo do curso na Labenu utilizando React.js
 
 ## API Utilizada
 <a href="https://thecatapi.com/">The Cat API</a>
